@@ -72,6 +72,20 @@
           "type": "python"
         }
       ]
+    },
+    {
+      "id": "web-frontend-basics",
+      "title": "Your First Webpage",
+      "description": "Build a personal profile page with HTML, CSS, and JavaScript",
+      "path": "assignments/web-frontend-basics",
+      "dueDate": "2026-05-25",
+      "attachments": [
+        {
+          "name": "Starter Code",
+          "file": "starter-code.html",
+          "type": "html"
+        }
+      ]
     }
   ]
 }
